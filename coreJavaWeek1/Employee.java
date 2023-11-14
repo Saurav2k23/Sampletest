@@ -2,6 +2,7 @@ package coreJavaWeek1;
 
 public class Employee
 {
+	// modified 14-11-2023
 	//data
 	int empid;
 	String empname;
